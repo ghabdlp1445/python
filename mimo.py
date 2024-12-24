@@ -5,7 +5,7 @@ Created on Sat Oct  5 18:34:54 2024
 @author: NEXT NOUT
 """
 
-# print("hello world")
+print("hello world")
 
 # >>>>>>>>>>>>>> ! BOT
 
